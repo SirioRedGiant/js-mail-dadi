@@ -1,6 +1,6 @@
 # Mail
 
-CREO una lista chiamata "invitati" con dentro i nomi dei partecipanti.
+CREO una lista chiamata "listaInvitati" con dentro i nomi dei partecipanti.
 CHIEDO all'utente (prompt): "Qual è la tua email?" e salva la risposta in "emailUtente".
 CREO una variabile "trovato" e impostala su FALSO.
 
